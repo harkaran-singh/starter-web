@@ -13,7 +13,7 @@ adding more changes to the file!!!!
 
 ## How to contribute
 
-changes to check for diff
+please fork thie repo and issue pull request for review.
 
 ## Deployment
 
