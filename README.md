@@ -16,3 +16,7 @@ adding more changes to the file!!!!
 changes to check for diff
 
 ## Deployment
+
+### Copyright
+
+2014 Git.Training.
